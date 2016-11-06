@@ -1,6 +1,7 @@
 ---
 ![](title2.jpg)
 
+
 ---
 - Read through saved references
 - Read through saved instapaper articles
